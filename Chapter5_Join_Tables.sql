@@ -7,7 +7,7 @@
 SELECT * FROM Categories
 SELECT * FROM products
 
-
+go
 SELECT *
 FROM products p INNER JOIN Categories c
 ON p.CategoryID = c.CategoryID
